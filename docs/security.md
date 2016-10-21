@@ -1,6 +1,6 @@
 ## Security
 
-### As a Service, I should: 
+### As a Service, I should:
 
 - Follow the [UK Home Office security guidelines for developers](https://github.com/UKHomeOffice/security-guide-for-developers)
 - Always use TLS 1.2 encryption to my service and to dependent services (even datastores)
